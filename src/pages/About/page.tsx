@@ -57,9 +57,9 @@ export default function About() {
                   theme === "dark" ? "text-gray-300" : "text-gray-600"
                 }`}
               >
-                Hello! I'm Maurice Zadi, a passionate JavaScript developer
-                specializing in creating innovative web solutions and
-                user-friendly interfaces.{" "}
+                Hello! I'm Maurice Zadi, a passionate AWS Cloud Engineer
+specializing in building secure, scalable, and cost-optimized cloud solutions
+using AWS services, modern DevOps practices, and automation tools.{" "}
                 <span
                   className={`font-bold ${
                     theme === "dark" ? "text-white" : "text-gray-900"
