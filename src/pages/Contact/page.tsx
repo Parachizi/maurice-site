@@ -152,7 +152,7 @@ export default function Contact() {
                         isDarkMode ? "text-gray-400" : "text-gray-600"
                       }`}
                     >
-                      olovajs@gmail.com
+                      mz@mauricemed.cloud
                     </p>
                   </div>
                 </div>
