@@ -10,7 +10,7 @@ const config = {
   codeContent: {
     code: `const profile = {
   name: 'Maurice Zadi',
-  title: 'Full-Stack Developer | Cloud Specialist | Problem Solver',
+  title: 'Infrastructure Builder | AWS  Cloud Specialist | Problem Solver',
   skills: [
     'AWS', 'Terraform(Basics)', 'Docker', 'Express',
     'VPC & Networking', 'CloudWatch Monitoring', 'Docker', 'CI/CD Pipelines',
