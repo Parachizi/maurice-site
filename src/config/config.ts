@@ -1,31 +1,31 @@
 const config = {
   information: {
-    name: "Nazmul Hossain",
-    helloText: "Hello",
+    name: "Maurice Zadi",
+    helloText: "Hi There!",
     welcomeText: "✨ Welcome to my universe",
-    title: "JavaScript lover 🚀 | OlovaJS creator 🔧 | Crafting frameworks",
+    title: "AWS Engineer 🚀 | Linux Enthusiast 🔧 | Building Reliable Cloud Solutions",
     title3: "and coding the future 💻 ✨",
   },
-  flipWords: ["Linux & GitHub for DevOps", "Cloud Computing", "Crafting frameworks", "Frontend Web Developer"],
+  flipWords: ["Linux & GitHub", "AWS Cloud", "Cloud Security & IAM", "AUtomation & Scripting"],
   codeContent: {
     code: `const profile = {
-  name: 'Nazmul Hossain',
-  title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
+  name: 'Maurice Zadi',
+  title: 'Full-Stack Developer | Cloud Specialist | Problem Solver',
   skills: [
-    'React', 'NextJS', 'Redux', 'Express',
-    'MySQL', 'MongoDB', 'Docker', 'AWS', 'TypeScript',
-    'GraphQL', 'Git', 'Linux', 'Discord Development'
+    'AWS', 'Terraform(Basics)', 'Docker', 'Express',
+    'VPC & Networking', 'CloudWatch Monitoring', 'Docker', 'CI/CD Pipelines',
+    'GraphQL', 'Git', 'Linux', 'Bash Scripting'
   ],
   hardWorker: true,
   quickLearner: true, 
   problemSolver: true,
-  yearsOfExperience: 4,
+  yearsOfExperience: 2,
   hireable: function() {
     return (
       this.hardWorker &&
       this.problemSolver &&
       this.skills.length > 5 &&
-      this.yearsOfExperience >= 3
+      this.yearsOfExperience >= 2
     );
   }
 };`,
