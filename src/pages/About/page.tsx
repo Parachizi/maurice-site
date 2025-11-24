@@ -57,7 +57,7 @@ export default function About() {
                   theme === "dark" ? "text-gray-300" : "text-gray-600"
                 }`}
               >
-                Hello! I'm Nazmul Hossain, a passionate JavaScript developer
+                Hello! I'm Maurice Zadi, a passionate JavaScript developer
                 specializing in creating innovative web solutions and
                 user-friendly interfaces.{" "}
                 <span
