@@ -1,6 +1,5 @@
 import HeroImg from "../../assets/hero.jpg";
 import { useTheme } from "../../provider/page";
-import OlovaLogo from "../../assets/olova.png";
 
 export default function About() {
   const { theme } = useTheme();
@@ -21,9 +20,11 @@ export default function About() {
               theme === "dark" ? "text-white" : "text-gray-900"
             }`}
           >
-            Developer, Designer, Creator, Innovator
+            AWS Cloud Engineer, Linux Enthusiast & DevOps Learner
           </h2>
+
           <div className="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
+            {/* IMAGE BLOCK */}
             <div className="relative mb-6 sm:mb-0">
               <div
                 className={`bg-linear-to-b aspect-76/59 relative rounded-2xl p-px ${
@@ -35,7 +36,7 @@ export default function About() {
                   className={`rounded-[15px] ${
                     theme === "dark" ? "block" : "hidden"
                   }`}
-                  alt="payments illustration dark"
+                  alt="Cloud engineering illustration dark"
                   width={1207}
                   height={929}
                 />
@@ -44,40 +45,45 @@ export default function About() {
                   className={`rounded-[15px] shadow ${
                     theme === "dark" ? "hidden" : "block"
                   }`}
-                  alt="payments illustration light"
+                  alt="Cloud engineering illustration light"
                   width={1207}
                   height={929}
                 />
               </div>
             </div>
 
+            {/* TEXT BLOCK */}
             <div className="relative space-y-4">
               <p
                 className={`${
                   theme === "dark" ? "text-gray-300" : "text-gray-600"
                 }`}
               >
-                Hello! I'm Maurice Zadi, a passionate AWS Cloud Engineer
-specializing in building secure, scalable, and cost-optimized cloud solutions
-using AWS services, modern DevOps practices, and automation tools.{" "}
                 <span
                   className={`font-bold ${
                     theme === "dark" ? "text-white" : "text-gray-900"
                   }`}
                 >
-                  As the creator of the OlovaJS UI Framework
-                </span>
-                , I'm dedicated to simplifying development workflows.
+                  Hello! I'm Maurice Zadi — an AWS Cloud Engineer focused on
+                  building secure, scalable, and cost-efficient cloud solutions.
+                </span>{" "}
+                I work with AWS services, Linux systems, and DevOps practices to
+                design cloud architectures, automate infrastructure, and improve
+                reliability. My passion lies in creating cloud environments that
+                are optimized, maintainable, and follow modern engineering
+                standards.
               </p>
+
               <p
                 className={`${
                   theme === "dark" ? "text-gray-300" : "text-gray-600"
                 }`}
               >
-                My focus is on making web development faster, easier, and
-                accessible to all developers. Currently, I'm expanding into
-                backend development to grow as a full-stack developer and create
-                seamless, robust web applications.
+                I’m continually expanding my skills in automation, CI/CD,
+                containerization, and backend technologies to grow as a
+                full-stack cloud engineer. My goal is to build efficient,
+                production-ready cloud systems and contribute meaningful
+                solutions that help teams move faster with confidence.
               </p>
 
               <div className="pt-6">
@@ -91,11 +97,10 @@ using AWS services, modern DevOps practices, and automation tools.{" "}
                       theme === "dark" ? "text-gray-300" : "text-gray-600"
                     }
                   >
-                    I'm a lifelong learner and innovator, driven by a desire to
-                    contribute to the developer community with new ideas and
-                    tools that deliver real value. As the creator of OlovaJS,
-                    I'm pushing the boundaries of JavaScript frameworks to
-                    empower developers worldwide.
+                    I'm a lifelong learner, driven by curiosity and
+                    problem-solving. Every project I take on is an opportunity
+                    to sharpen my skills, explore new technologies, and build
+                    cloud solutions that make a real impact.
                   </p>
 
                   <div className="mt-6 space-y-3">
@@ -104,18 +109,8 @@ using AWS services, modern DevOps practices, and automation tools.{" "}
                         theme === "dark" ? "text-white" : "text-gray-900"
                       }`}
                     >
-                      Nazmul Hossain, Creator of 
+                      — Maurice Zadi
                     </cite>
-                    <div className="flex items-center gap-2">
-                      <img
-                        className={`h-5 w-fit ${theme === "dark" ? "" : ""}`}
-                        src={OlovaLogo}
-                        alt="Olova Logo"
-                        height="20"
-                        width="auto"
-                      />
-                      <span>OlovaJS</span>
-                    </div>
                   </div>
                 </blockquote>
               </div>
