@@ -100,7 +100,7 @@ export default function Hero() {
 
               <div className="mt-8 flex space-x-4">
                 <a
-                  href="#"
+                  href="https://github.com/Parachizi/maurice-site/blob/main/README.md"
                   className="bg-transparent text-blue-400  hover:bg-opacity-30 transition duration-300 cursor-pointer"
                 >
                   <Button className="cursor-pointer">Learn More</Button>
