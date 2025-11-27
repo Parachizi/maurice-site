@@ -168,7 +168,7 @@ export default function Contact() {
                         isDarkMode ? "text-gray-400" : "text-gray-600"
                       }`}
                     >
-                      Laxmipure, Natore 6400
+                      Abidjan, Cote d'Ivoire 99326
                     </p>
                   </div>
                 </div>
