@@ -37,7 +37,7 @@ const ProjectShowcase = () => {
         "This portfolio is a sleek and modern showcase of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
       tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
       links: {
-        github: "https://github.com/seraprogrammer/portfolio",
+        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://codervai.vercel.app/",
       },
       image: portfolio,
