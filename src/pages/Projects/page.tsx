@@ -19,13 +19,14 @@ const ProjectShowcase = () => {
 
   const projects = [
     {
-      title: "Olova! A Lightweight JavaScript Library",
+      title: "Static Website on S3 + CloudFront (mauricemed.cloud)",
       description:
-        "Olova.js is a lightweight JavaScript library for building modern, reactive, and dynamic web applications. It features a simple, component-based architecture, enabling developers to create reusable and interactive UI elements with minimal code and overhead.",
-      tags: ["JavaScript", "Reactive", "Web Development"],
-      links: {
-        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
-        demo: "https://olova.js.org/",
+        "Hosted a static portfolio site in an S3 bucket, used CloudFront as CDN with HTTPS via ACM, Configured Route 53 to point the domain mauricemed.cloud to CloudFront,managed cache invalidations with aws cloudfront create-invalidation.",
+      tags: ["S3", "vite","Hostinger"],
+      links: {"https://https:mauricemed.cloud/"
+
+        :"github:https://github.com/Parachizi/maurice-site/blob/main/README.md",
+        demo: "https://https:mauricemed.cloud/",
       },
       image: olova,
       featured: true,
