@@ -97,10 +97,13 @@ Hosting static websites on S3 and delivering them globally with CloudFront and c
             title="AWS Junior Cloud Engineer"
             company="Mauricemed"
             period="present"
-            description="Selected projects:
+            description=" Selected projects:
+
 
 
 1. Static Website on S3 + CloudFront (mauricemed.cloud)
+
+Static Website on S3 + CloudFront (mauricemed.cloud)
 
 Hosted a static portfolio site in an S3 bucket.
 
@@ -109,6 +112,7 @@ Used CloudFront as CDN with HTTPS via ACM.
 Configured Route 53 to point the domain mauricemed.cloud to CloudFront.
 
 Managed cache invalidations with aws cloudfront create-invalidation.
+
 
 
 2. Secure VPC with Private EC2 Instances
@@ -121,6 +125,8 @@ Restricted access to private instances using security groups and a bastion host 
 
 Practiced Transit Gateway concepts and routing between VPCs.
 
+
+
 3. Auto Scaling Infrastructure with Monitoring
 
 Built an Auto Scaling Group for EC2 web servers behind a load balancer.
@@ -129,7 +135,10 @@ Used CloudWatch metrics and alarms to scale based on CPU usage.
 
 Configured health checks to automatically replace unhealthy instances.
 
-Logged and monitored activity through CloudWatch Logs and dashboards.."
+Logged and monitored activity through CloudWatch Logs and dashboards."
+
+
+
             icon={<Briefcase />}
           />
         </motion.div>
