@@ -24,7 +24,7 @@ const ProjectShowcase = () => {
         "Olova.js is a lightweight JavaScript library for building modern, reactive, and dynamic web applications. It features a simple, component-based architecture, enabling developers to create reusable and interactive UI elements with minimal code and overhead.",
       tags: ["JavaScript", "Reactive", "Web Development"],
       links: {
-        github: "https://github.com/olovajs/olova",
+        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://olova.js.org/",
       },
       image: olova,
@@ -50,7 +50,7 @@ const ProjectShowcase = () => {
         "This portfolio is a sleek and modern showcase of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
       tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
       links: {
-        github: "https://github.com/seraprogrammer/CodeKori",
+        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://codekori.js.org/",
       },
       image: codekori,
