@@ -42,7 +42,7 @@ export default function ProfessionalJourney() {
             Professional Journey
           </h2>
           <p className={`mt-4 ${isDark ? "text-gray-300" : "text-gray-600"}`}>
-            "Transforming ideas into digital reality, one project at a time"
+            "building a solid foundation in cloud architecture and DevOps"
           </p>
         </div>
         <motion.div
@@ -61,25 +61,25 @@ export default function ProfessionalJourney() {
           }}
         >
           <ExperienceCard
-            title="JavaScript Developer"
-            company="OlovJS (Sera Programmer)"
-            period="2023 - Present"
-            description="Contributed to developing JavaScript libraries and enhancing framework functionalities."
+            title="AWS Junior Cloud Engineer"
+            company="Mauricemed"
+            period="Present"
+            description="building a solid foundation in cloud architecture and DevOps."
             icon={<Code />}
           />
 
           <ExperienceCard
-            title="Junior Frontend Developer"
-            company="Sera Programmer"
-            period="2021 - 2023"
+            title="AWS Junior Cloud Engineer "
+            company="Mauricemed "
+            period="2025"
             description="Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs."
             icon={<Briefcase />}
           />
 
           <ExperienceCard
-            title="WordPress Developer"
-            company="Fiverr"
-            period="2019 - 2020"
+            title="AWS Junior Cloud Engineer"
+            company="Mauricemed"
+            period="present"
             description="Worked on developing and customizing WordPress websites for clients globally."
             icon={<Briefcase />}
           />
