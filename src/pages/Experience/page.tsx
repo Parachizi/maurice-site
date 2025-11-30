@@ -64,7 +64,7 @@ export default function ProfessionalJourney() {
             title="AWS Junior Cloud Engineer"
             company="Mauricemed"
             period="Present"
-            description="building a solid foundation in cloud architecture and DevOps. Hosted my personal portfolio website mauricemed.cloud on AWS using S3, CloudFront, ACM and Route 53.
+            description=" Hosted my personal portfolio website mauricemed.cloud on AWS using S3, CloudFront, ACM and Route 53.
 
 Designed a secure VPC with private subnets for application servers and controlled access via security groups and a bastion host.
 
