@@ -99,6 +99,7 @@ Hosting static websites on S3 and delivering them globally with CloudFront and c
             period="present"
             description="Selected projects:
 
+
 1. Static Website on S3 + CloudFront (mauricemed.cloud)
 
 Hosted a static portfolio site in an S3 bucket.
@@ -108,6 +109,7 @@ Used CloudFront as CDN with HTTPS via ACM.
 Configured Route 53 to point the domain mauricemed.cloud to CloudFront.
 
 Managed cache invalidations with aws cloudfront create-invalidation.
+
 
 2. Secure VPC with Private EC2 Instances
 
