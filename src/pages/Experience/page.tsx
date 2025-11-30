@@ -72,7 +72,16 @@ export default function ProfessionalJourney() {
             title="AWS Junior Cloud Engineer "
             company="Mauricemed "
             period="2025"
-            description="Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs."
+            description="building a solid foundation in cloud architecture and DevOps
+
+Building custom VPCs with public and private subnets, route tables, Internet Gateways and NAT Gateways.
+
+Launching and managing EC2 instances (Linux), including key pairs, security groups, SSH and bastion hosts
+
+Implementing Auto Scaling Groups with Launch Templates and health checks to automatically adjust capacity based on traffic.
+
+Hosting static websites on S3 and delivering them globally with CloudFront and custom domains.
+."
             icon={<Briefcase />}
           />
 
