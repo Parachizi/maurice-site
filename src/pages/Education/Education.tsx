@@ -10,24 +10,24 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Cloud Computing & AWS-Self-Taught Path",
+      school: "Online" ,
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2024-Present",
+      achievements: ["VPC", "EC2", "Auto-Scaling","IAM", "CloudWatch" ],
+      skills: ["I learn through a mix of official AWS documentation, online courses, practice labs and real projects deployed in my own AWS environment"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        " I am building my cloud skills through a self-directed learning path focused on Amazon Web Services (AWS).",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      degree: "Multiple Time Sports Champion & President of sport association in United world Wrestling ( UWW)",
+      school: "Federation Ivoirienne de pancrace et disciplines assimlées (FIPDA)",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2018-2024",
+      achievements: ["National, africa and intercontinetal  champion( whushu, MMA & wrestling) 16/17/18/19/20- 5th at world combat games 2023(Saudi Arabia) 7th at World kuresi championship (Usthobe-Kazakstan ) 2023 - Vice world champion at Hub of wrestling ( Dubai ) 2024 / 7th "],
+      skills: ["National , Africa and world champion ", "MartialsArts: Whushu/Wrestling/MMA"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Developed strong analytical and critical  skills  of martials arts and sports .",
     },
   ];
 
