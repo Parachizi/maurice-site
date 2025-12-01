@@ -22,7 +22,7 @@ const ProjectShowcase = () => {
       title: "Static Website on S3",
       description:
         "Hosted a static portfolio site in an S3 bucket,used CloudFront as CDN with HTTPS via ACM,Configured Route 53 to point the domain mauricemed.cloud to CloudFront,Managed cache invalidations with aws cloudfront create-invalidation.",
-      tags: ["AWS S3", "Reactive", "Hostinger" ,"Route 53", " ACM", "CloudFront"],
+      tags: ["AWS S3","Hostinger" ,"Route 53", " ACM", "CloudFront"],
       links: {
         github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://mauricemed.cloud/",
@@ -31,27 +31,26 @@ const ProjectShowcase = () => {
       featured: true,
     },
     {
-      title:
-        "A sleek portfolio built with React and Tailwind CSS to showcase your skills" ,
+      title:"Secure VPC with Private EC2 Instances",
       description:
-        "This portfolio is a sleek and modern showcase 12 of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
-      tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
+        "Created a VPC with multiple subnets (public and privateConfigured Internet Gateway for public subnets and NAT Gateway for private ones) ,restricted access to private instances using security groups and a bastion host in a public subnet,Practiced Transit Gateway concepts and routing between VPCs",
+      tags: ["VPC & Networking", "EC2"],
       links: {
         github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
-        demo: "https://codervai.vercel.app/",
+        demo: "https://mauricemed.cloud/",
       },
       image: portfolio,
       featured: true,
     },
     {
       title:
-        "CodeKori is an open-source online code editor with built-in AI, completely free to use",
+        "Auto Scaling Infrastructure with Monitoring",
       description:
-        "This portfolio is a sleek and modern showcase of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
-      tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
+        "Built an Auto Scaling Group for EC2 web servers behind a load balancer, used CloudWatch metrics and alarms to scale based on CPU usage,configured health checks to automatically replace unhealthy instances,logged and monitored activity through CloudWatch Logs and dashboards.",
+      tags: ["ALB", "ASG", "EC2", "BASH","HTML" ,"CloudWatch",],
       links: {
         github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
-        demo: "https://codekori.js.org/",
+        demo: "https://mauricemed.cloud/",
       },
       image: codekori,
       featured: true,
