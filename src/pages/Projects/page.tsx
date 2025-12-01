@@ -4,7 +4,6 @@ import portfolio from "@/assets/projects/Annotation 2025-03-20 155334.png";
 import codekori from "@/assets/projects/codekori.png";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useTheme } from "@/provider/page";
-import { github } from "react-syntax-highlighter/dist/esm/styles/hljs";
 
 const MacOsButtons = () => (
   <div className="flex gap-2 mb-4">
@@ -20,27 +19,26 @@ const ProjectShowcase = () => {
 
   const projects = [
     {
-      title:"S3 + CloudFront",
+      title: "Olova! A Lightweight JavaScript Library",
       description:
-        "Hosted a static portfolio site in an S3 bucket, used CloudFront as CDN with HTTPS via ACM, Configured Route 53 to point the domain mauricemed.cloud to CloudFront,managed cache invalidations with aws cloudfront create-invalidation.",
-      tags: ["S3", "vite","Hostinger"],
+        "Olova.js is a lightweight JavaScript library for building modern, reactive, and dynamic web applications. It features a simple, component-based architecture, enabling developers to create reusable and interactive UI elements with minimal code and overhead.",
+      tags: ["JavaScript", "Reactive", "Web Development"],
       links: {
-
-        github:"https://github.com/Parachizi/maurice-site/blob/main/README.md",
-        demo:"https://https:mauricemed.cloud/",
+        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
+        demo: "https://olova.js.org/",
       },
       image: olova,
       featured: true,
     },
     {
       title:
-        "Secure VPC with Private EC2 Instances",
+        "A sleek portfolio built with React and Tailwind CSS to showcase your skills" ,
       description:
-        "Created a VPC with multiple subnets (public and private) Configured Internet Gateway for public subnets and NAT Gateway for private ones Restricted access to private instances using security groups and a bastion host in a public subnet .Practiced Transit Gateway concepts and routing between VPCs.",
-      tags: ["VPC", "EC2",],
+        "This portfolio is a sleek and modern showcase 12 of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
+      tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
       links: {
         github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
-        demo: "https://https:mauricemed.cloud//",
+        demo: "https://codervai.vercel.app/",
       },
       image: portfolio,
       featured: true,
