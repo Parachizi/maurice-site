@@ -22,7 +22,7 @@ const ProjectShowcase = () => {
       title: "Static Website on S3",
       description:
         "Hosted a static portfolio site in an S3 bucket,used CloudFront as CDN with HTTPS via ACM,Configured Route 53 to point the domain mauricemed.cloud to CloudFront,Managed cache invalidations with aws cloudfront create-invalidation.",
-      tags: ["AWS S3","Hostinger" ,"Route 53", " ACM", "CloudFront"],
+      tags: ["AWS S3","Hostinger" ,"Route 53", " ACM", "CI/CD","CloudFront"],
       links: {
         github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://mauricemed.cloud/",
