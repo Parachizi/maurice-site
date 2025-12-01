@@ -4,6 +4,7 @@ import portfolio from "@/assets/projects/Annotation 2025-03-20 155334.png";
 import codekori from "@/assets/projects/codekori.png";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useTheme } from "@/provider/page";
+import { github } from "react-syntax-highlighter/dist/esm/styles/hljs";
 
 const MacOsButtons = () => (
   <div className="flex gap-2 mb-4">
@@ -23,9 +24,9 @@ const ProjectShowcase = () => {
       description:
         "Hosted a static portfolio site in an S3 bucket, used CloudFront as CDN with HTTPS via ACM, Configured Route 53 to point the domain mauricemed.cloud to CloudFront,managed cache invalidations with aws cloudfront create-invalidation.",
       tags: ["S3", "vite","Hostinger"],
-      links: {"https://https:mauricemed.cloud/"
+      links: {
 
-        :"github:https://github.com/Parachizi/maurice-site/blob/main/README.md",
+        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://https:mauricemed.cloud/",
       },
       image: olova,
@@ -33,13 +34,13 @@ const ProjectShowcase = () => {
     },
     {
       title:
-        "A sleek portfolio built with React and Tailwind CSS to showcase your skills",
+        "Secure VPC with Private EC2 Instances",
       description:
-        "This portfolio is a sleek and modern showcase of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
-      tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
+        "Created a VPC with multiple subnets (public and private) Configured Internet Gateway for public subnets and NAT Gateway for private ones Restricted access to private instances using security groups and a bastion host in a public subnet .Practiced Transit Gateway concepts and routing between VPCs.",
+      tags: ["VPC", "EC2",],
       links: {
         github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
-        demo: "https://codervai.vercel.app/",
+        demo: "https://https:mauricemed.cloud//",
       },
       image: portfolio,
       featured: true,
