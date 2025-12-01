@@ -25,7 +25,7 @@ const EducationSection = () => {
       mascot: "📗",
       year: "2024-present ",
       achievements: ["Git","Linux","Bash Scripting"],
-      skills: ["Comfortable with Git CI/CD ", "Daily use of CLI"],
+      skills: ["CI/CD ", "Daily use of CLI","Automation"],
       description:
         " Git,comfortable with Git basics: repositories, commits, pushes, and GitHub integration.Actively improving workflow best practices , Linux ,daily use of Linux commands for AWS and server management.Solid foundation with room to grow toward advanced administration,. Able to write basic scripts for automation and command execution ,currently developing more advanced scripting skills " ,
     },
