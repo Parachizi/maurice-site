@@ -26,8 +26,8 @@ const ProjectShowcase = () => {
       tags: ["S3", "vite","Hostinger"],
       links: {
 
-        github: "https://github.com/Parachizi/maurice-site/tree/main",
-        demo: "https://https:mauricemed.cloud/",
+        github:"https://github.com/Parachizi/maurice-site/blob/main/README.md",
+        demo:"https://https:mauricemed.cloud/",
       },
       image: olova,
       featured: true,
@@ -39,7 +39,7 @@ const ProjectShowcase = () => {
         "Created a VPC with multiple subnets (public and private) Configured Internet Gateway for public subnets and NAT Gateway for private ones Restricted access to private instances using security groups and a bastion host in a public subnet .Practiced Transit Gateway concepts and routing between VPCs.",
       tags: ["VPC", "EC2",],
       links: {
-        github: "https://github.com/Parachizi/maurice-site/tree/main",
+        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://https:mauricemed.cloud//",
       },
       image: portfolio,
@@ -52,7 +52,7 @@ const ProjectShowcase = () => {
         "This portfolio is a sleek and modern showcase of my skills and projects. It's built with React and Tailwind CSS, providing a clean and professional look that reflects my professional brand.",
       tags: ["React", "Tailwind CSS", "Portfolio", "Typescript"],
       links: {
-        github: "https://github.com/Parachizi/maurice-site/tree/main",
+        github: "https://github.com/Parachizi/maurice-site/blob/main/README.md",
         demo: "https://codekori.js.org/",
       },
       image: codekori,
