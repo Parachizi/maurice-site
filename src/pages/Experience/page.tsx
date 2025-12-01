@@ -79,7 +79,7 @@ Implemented IAM policies for safe deployment using aws s3 sync and CloudFront in
           <ExperienceCard
             title="AWS Junior Cloud Engineer "
             company="Mauricemed "
-            period="2025"
+            period="Present"
             description="building a solid foundation in cloud architecture and DevOps
 
 Building custom VPCs with public and private subnets, route tables, Internet Gateways and NAT Gateways.
@@ -96,7 +96,7 @@ Hosting static websites on S3 and delivering them globally with CloudFront and c
           <ExperienceCard
             title="AWS Junior Cloud Engineer"
             company="Mauricemed"
-            period="present"
+            period="Present"
             description=" Selected projects:
 
 
