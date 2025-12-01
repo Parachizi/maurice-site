@@ -14,17 +14,17 @@ const EducationSection = () => {
       school: "Online" ,
       mascot: "📘",
       year: "2024-Present",
-      achievements: ["VPC", "EC2", "Auto-Scaling","IAM", "CloudWatch" ],
+      achievements: ["VPC", "EC2", "Auto-Scaling","IAM", "CloudWatch"],
       skills: ["I learn through a mix of official AWS documentation, online courses, practice labs and real projects deployed in my own AWS environment"],
       description:
         " I am building my cloud skills through a self-directed learning path focused on Amazon Web Services (AWS).",
     },
     {
-      degree: "Multiple Time Sports Champion & President of sport association in United world Wrestling ( UWW)",
-      school: "Federation Ivoirienne de pancrace et disciplines assimlées (FIPDA)",
+      degree: "Multiple Time Sports Champion in United world Wrestling ( UWW)",
+      school: "worldwide",
       mascot: "📗",
-      year: "2018-2024",
-      achievements: ["National, africa and intercontinetal  champion( whushu, MMA & wrestling) 16/17/18/19/20- 5th at world combat games 2023(Saudi Arabia) 7th at World kuresi championship (Usthobe-Kazakstan ) 2023 - Vice world champion at Hub of wrestling ( Dubai ) 2024 / 7th "],
+      year: "2012-2024",
+      achievements: ["National, africa and intercontinetal champion( whushu, MMA & wrestling) 2012 to 2018- 5th at world combat games 2023(Saudi Arabia) 7th at World kuresi championship (Usthobe-Kazakstan ) 2023 - Vice world champion at Hub of wrestling ( Dubai )2024"],
       skills: ["National , Africa and world champion ", "MartialsArts: Whushu/Wrestling/MMA"],
       description:
         "Developed strong analytical and critical  skills  of martials arts and sports .",
