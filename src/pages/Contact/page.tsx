@@ -152,8 +152,7 @@ export default function Contact() {
                         isDarkMode ? "text-gray-400" : "text-gray-600"
                       }`}
                     >
-                      mz@oppentec.com
-                    </p>
+                      mz@mauricemed.cloud                    </p>
                   </div>
                 </div>
 
