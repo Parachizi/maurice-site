@@ -105,12 +105,12 @@ export default function Hero() {
                 >
                   <Button className="cursor-pointer">Learn More</Button>
                 </a>
-                {/* <a
+                <a
                   href="#"
                   className="bg-transparent border border-gray-700 text-gray-400 hover:border-gray-600 hover:text-gray-300 py-2 px-6 transition duration-300 flex items-center justify-center rounded-full cursor-pointer"
                 >
                   Get Resume
-                </a> */}
+                </a>
               </div>
             </div>
 
