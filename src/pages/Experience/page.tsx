@@ -66,6 +66,7 @@ export default function ProfessionalJourney() {
             period="Present"
             description=" Hosted my personal portfolio website mauricemed.cloud on AWS using S3, CloudFront, ACM and Route 53.
 
+
 "
             icon={<Code />}
           />
@@ -75,14 +76,17 @@ export default function ProfessionalJourney() {
             company="Pentacle  "
             period="july 2024-April 2025"
             description="Windows Server infrastructure and Active Directory administration, including user access management, Group Policy enforcement, DNS/DHCP services, and routine system maintenance
-                -Administered Active Directory users, groups, and organizational units (OUs)
-                -Created, modified, and troubleshot Group Policy Objects (GPOs) for user and system security
-            	  -Managed DNS and DHCP services to ensure reliable network connectivity
-                -Performed routine Windows Server patching, updates, and system health checks
-	              -Supported file services, access permissions, and shared resources
-	              -Investigated and resolved Windows server and user access issues within SLA timelines
-                -Assisted with server hardening, access control, and security best practices
-	              -Documented system configurations and standard operating procedures (SOPs).
+            Administered Active Directory users, groups, and organizational units (OUs)
+
+                Created, modified, and troubleshot Group Policy Objects (GPOs) for user and system security
+
+            	Managed DNS and DHCP services to ensure reliable network connectivity
+              
+Performed routine Windows Server patching, updates, and system health checks
+	Supported file services, access permissions, and shared resources
+	Investigated and resolved Windows server and user access issues within SLA timelines
+Assisted with server hardening, access control, and security best practices
+	Documented system configurations and standard operating procedures (SOPs).
 "
             icon={<Briefcase />}
           />
