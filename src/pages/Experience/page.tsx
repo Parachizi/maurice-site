@@ -89,7 +89,7 @@ Performed routine Windows Server patching, updates, and system health checks
 	Investigated and resolved Windows server and user access issues within SLA timelines
 Assisted with server hardening, access control, and security best practices
 	Documented system configurations and standard operating procedures (SOPs).
-."
+"
             icon={<Briefcase />}
           />
 
