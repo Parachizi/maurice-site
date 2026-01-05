@@ -94,9 +94,9 @@ Assisted with server hardening, access control, and security best practices
           />
 
           <ExperienceCard
-            title="AWS Junior Cloud Engineer"
-            company="Mauricemed"
-            period="Present"
+            title="AWS Junior Support"
+            company="Oppentec"
+            period="May 2025-December 2025"
             description=" Selected projects:
 
 
