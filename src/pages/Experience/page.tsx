@@ -77,18 +77,18 @@ Implemented IAM policies for safe deployment using aws s3 sync and CloudFront in
           />
 
           <ExperienceCard
-            title="AWS Junior Cloud Engineer "
-            company="Mauricemed "
-            period="Present"
-            description="building a solid foundation in cloud architecture and DevOps
-
-Building custom VPCs with public and private subnets, route tables, Internet Gateways and NAT Gateways.
-
-Launching and managing EC2 instances (Linux), including key pairs, security groups, SSH and bastion hosts
-
-Implementing Auto Scaling Groups with Launch Templates and health checks to automatically adjust capacity based on traffic.
-
-Hosting static websites on S3 and delivering them globally with CloudFront and custom domains.
+            title="System Administrator  "
+            company="Pentacle  "
+            period="july 2024-April 2025"
+            description="Windows Server infrastructure and Active Directory administration, including user access management, Group Policy enforcement, DNS/DHCP services, and routine system maintenance
+            Administered Active Directory users, groups, and organizational units (OUs)
+                Created, modified, and troubleshot Group Policy Objects (GPOs) for user and system security
+            	Managed DNS and DHCP services to ensure reliable network connectivity
+Performed routine Windows Server patching, updates, and system health checks
+	Supported file services, access permissions, and shared resources
+	Investigated and resolved Windows server and user access issues within SLA timelines
+Assisted with server hardening, access control, and security best practices
+	Documented system configurations and standard operating procedures (SOPs).
 ."
             icon={<Briefcase />}
           />
