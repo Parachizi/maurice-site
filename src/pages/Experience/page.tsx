@@ -61,16 +61,10 @@ export default function ProfessionalJourney() {
           }}
         >
           <ExperienceCard
-            title="AWS Junior Cloud Engineer"
-            company="Mauricemed"
+            title=" Secure Stactic Website Hosting on AWS "
+            company="Personal Project"
             period="Present"
             description=" Hosted my personal portfolio website mauricemed.cloud on AWS using S3, CloudFront, ACM and Route 53.
-
-Designed a secure VPC with private subnets for application servers and controlled access via security groups and a bastion host.
-
-Set up Auto Scaling for an EC2-based web application, with CloudWatch alarms triggering scale-out and scale-in actions.
-
-Implemented IAM policies for safe deployment using aws s3 sync and CloudFront invalidations.
 
 "
             icon={<Code />}
