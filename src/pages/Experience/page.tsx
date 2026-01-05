@@ -97,8 +97,7 @@ Assisted with server hardening, access control, and security best practices
             title="AWS Junior Support"
             company="Oppentec"
             period="May 2025-December 2025"
-            description=" Selected projects:
-
+            description=" Operational support and monitoring of AWS infrastructure, including EC2, IAM, VPC networking, security groups, and CloudWatch for availability and issue resolution :
 
 
  Provided Tier 1-2 support for AWS-Hosted applications and infrastructure
