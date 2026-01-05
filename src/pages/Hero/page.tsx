@@ -104,6 +104,7 @@ export default function Hero() {
                   className="bg-transparent text-blue-400  hover:bg-opacity-30 transition duration-300 cursor-pointer"
                 >
                   <Button className="cursor-pointer">Learn More</Button>
+                  
                 {/* </a> */}
                 {/* <a
                   href="#"
