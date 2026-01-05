@@ -101,41 +101,14 @@ Assisted with server hardening, access control, and security best practices
 
 
 
-1. Static Website on S3 + CloudFront (mauricemed.cloud)
-
-Static Website on S3 + CloudFront (mauricemed.cloud)
-
-Hosted a static portfolio site in an S3 bucket.
-
-Used CloudFront as CDN with HTTPS via ACM.
-
-Configured Route 53 to point the domain mauricemed.cloud to CloudFront.
-
-Managed cache invalidations with aws cloudfront create-invalidation.
-
-
-
-2. Secure VPC with Private EC2 Instances
-
-Created a VPC with multiple subnets (public and private).
-
-Configured Internet Gateway for public subnets and NAT Gateway for private ones.
-
-Restricted access to private instances using security groups and a bastion host in a public subnet.
-
-Practiced Transit Gateway concepts and routing between VPCs.
-
-
-
-3. Auto Scaling Infrastructure with Monitoring
-
-Built an Auto Scaling Group for EC2 web servers behind a load balancer.
-
-Used CloudWatch metrics and alarms to scale based on CPU usage.
-
-Configured health checks to automatically replace unhealthy instances.
-
-Logged and monitored activity through CloudWatch Logs and dashboards."
+ Provided Tier 1-2 support for AWS-Hosted applications and infrastructure
+ Monitored systems using Amazon CloudWacth and responded to alerts 
+ Used AWS CLI to perform to perform routine operational tasks and troubleshooting
+ Supported basic VPC networking components, including subnets,route tables,and security groups
+ Hosted a static portfolio site in an S3 bucket.
+ Assited  with backup, recovery,and patching operations for cloud ressources
+Supported validation of backup and restore processes for EC2 instances
+."
 
 
 
