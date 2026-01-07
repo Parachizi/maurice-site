@@ -64,7 +64,7 @@ export default function ProfessionalJourney() {
             title=" Secure Stactic Website Hosting on AWS "
             company="Personal Project"
             period="Present"
-            description=" Hosted my personal portfolio website mauricemed.cloud on AWS using S3, CloudFront, ACM and Route 53.
+            description=" Hosted my personal portfolio website mauricemed.cloud on AWS using S3, CloudFront, ACM and Route 53. Configured a custom domain and https using Amazon Certificate Manager
 
 
 "
