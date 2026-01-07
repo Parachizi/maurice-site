@@ -94,13 +94,21 @@ export default function ProfessionalJourney() {
             description=" Operational support and monitoring of AWS infrastructure, including EC2, IAM, VPC networking, security groups, and CloudWatch for availability and issue resolution :
 
 
- Provided Tier 1-2 support for AWS-Hosted applications and infrastructure
- Monitored systems using Amazon CloudWacth and responded to alerts 
- Used AWS CLI to perform to perform routine operational tasks and troubleshooting
- Supported basic VPC networking components, including subnets,route tables,and security groups
- Hosted a static portfolio site in an S3 bucket.
- Assited  with backup, recovery,and patching operations for cloud ressources
-Supported validation of backup and restore processes for EC2 instances
+              Provided Tier 1-2 support for AWS-Hosted applications and infrastructure
+
+              Monitored systems using Amazon CloudWacth and responded to alerts 
+
+              Used AWS CLI to perform to perform routine operational tasks and troubleshooting
+
+              Supported basic VPC networking components, including subnets,route tables,and security groups
+
+              Hosted a static portfolio site in an S3 bucket.
+
+              Assited  with backup, recovery,and patching operations for cloud ressources
+
+              Supported validation of backup and restore processes for EC2 instances
+
+              Participated in incident response activities and escalated issues to seniors when required 
 ."
 
 
