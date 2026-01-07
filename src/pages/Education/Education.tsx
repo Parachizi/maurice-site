@@ -10,14 +10,14 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Cloud Computing & AWS-Self-Taught Path",
+      degree: " AWS-Self-Taught Path & Windows Server Administration  ",
       school: "Online" ,
       mascot: "📘",
       year: "2024-Present",
       achievements: ["VPC", "EC2", "Auto-Scaling","IAM", "CloudWatch","Windows Server infrastructure and Active Directory administration"],
       skills: ["I learn through a mix of official AWS documentation, online courses, practice labs and real projects deployed in my own AWS environment", "Managed user access, Group Policy on Windows server"],
       description:
-        " I am building my cloud skills through a self-directed learning path focused on Amazon Web Services (AWS)"
+        " I am building my cloud skills through a self-directed learning path focused on Amazon Web Services (AWS)" 
     },
     {
       degree: "Cloud Computing ",
