@@ -74,7 +74,7 @@ export default function ProfessionalJourney() {
           <ExperienceCard
             title="System Administrator  "
             company="Pentacle  "
-            period="july 2024-April 2025"
+            period="july 2024-Apr 2025"
             description="Windows Server infrastructure and Active Directory administration, including user access management, Group Policy enforcement, DNS/DHCP services, and routine system maintenance
             Administered Active Directory users, groups, and organizational units (OUs)
 
@@ -90,7 +90,7 @@ export default function ProfessionalJourney() {
           <ExperienceCard
             title="AWS Junior Support"
             company="Oppentec"
-            period="May 2025-December 2025"
+            period="May 2025-Dec 2025"
             description=" Operational support and monitoring of AWS infrastructure, including EC2, IAM, VPC networking, security groups, and CloudWatch for availability and issue resolution :
 
 
