@@ -109,7 +109,7 @@ export default function About() {
                         theme === "dark" ? "text-white" : "text-gray-900"
                       }`}
                     >
-                      — Maurice Zadi
+                      — Maurice Alain  Zadi
                     </cite>
                   </div>
                 </blockquote>
