@@ -186,7 +186,7 @@ const SkillsSection = () => {
       title: "UI/UX Design",
       color: "text-purple-400",
       skills: [
-        { name: "Figma", icon: <Figma className="w-4 h-4 text-[#F24E1E]" /> },
+       
         {
           name: "Responsive Design",
           icon: <Layout className="w-4 h-4 text-[#38B2AC]" />,
