@@ -216,8 +216,9 @@ const SkillsSection = () => {
           icon: <GitBranch className="w-4 h-4 text-[#2088FF]" />,
         },
         {
-          name: "Kubernetes",
-          icon: <Globe className="w-4 h-4 text-[#326CE5]" />,
+          name: "Cloud Networking",
+          icon: <Globe className="w-4 h-4 text-blue-500" />,
+
         },
         { name: "Git", icon: <Github className="w-4 h-4 text-[#F05032]" /> },
         { name: "Linux", icon: <FaLinux className="w-4 h-4 text-[#FCC624]" /> },
